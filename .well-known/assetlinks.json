@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.milangru.twa",
+        "sha256_cert_fingerprints": ["72:C7:79:A5:48:B1:20:2F:1E:A4:C2:04:BF:06:16:D3:07:50:E3:31:B2:B9:6B:A6:B9:96:4C:80:3B:42:99:C6"]
+      }
+    }]
